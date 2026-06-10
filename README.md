@@ -1,8 +1,7 @@
 # Lab 6 — Computer Vision as IoT Sensor
 
 > **Môn học**: Triển khai, phát triển ứng dụng AI và IoT  
-> **Vị trí**: Buổi 6 trong chuỗi AIoT Deployment Pipeline  
-> **Tác giả**: PHUPHU2310  
+> **Vị trí**: Buổi 6 trong chuỗi AIoT Deployment Pipeline    
 > **Cập nhật**: 2026-06-10
 
 ---
