@@ -1,0 +1,3 @@
+image_id,device_id,timestamp,source_type,image_path,processed_path,width,height,brightness,processing_status,processing_time_ms,note
+img_d0e767233f,camera:0,2026-06-10T10:26:46,camera,data\raw_images\img_d0e767233f.jpg,data\processed_images\img_d0e767233f_processed_steps.jpg,640,480,133.9,processed,6.22,snapshot button
+img_00276f7577,camera:0,2026-06-10T10:49:31,camera,data\raw_images\img_00276f7577.jpg,data\processed_images\img_00276f7577_processed_steps.jpg,640,480,138.79,processed,60.54,snapshot button

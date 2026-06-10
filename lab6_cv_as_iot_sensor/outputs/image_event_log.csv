@@ -1,0 +1,3 @@
+event_id,image_id,timestamp,event_type,score,severity,explanation,action_hint
+evt_037b10a29e,img_d0e767233f,2026-06-10T10:26:46,IMAGE_PROCESSED,133.9,NORMAL,"Image was received, saved, preprocessed, and registered as visual data.",Continue monitoring or pass the image to Lab 7 object detection.
+evt_982c2a0034,img_00276f7577,2026-06-10T10:49:31,IMAGE_PROCESSED,138.79,NORMAL,"Image was received, saved, preprocessed, and registered as visual data.",Continue monitoring or pass the image to Lab 7 object detection.
